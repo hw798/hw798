@@ -1,38 +1,35 @@
-
 # hw798程序员导航
 
 ------
 
-**[hw798.com](https://www.hw798.com)** 程序员导航，期望集合众人的眼界，打造出最适合程序员使用的网址导航。
+**[hw798.com](https://www.hw798.com)** 程序员导航，期望集合众人的眼界，打造出好的程序员网址导航。
 
 ## 作者
 * 名字  ty
-* 邮箱 ty@hw798.com 【24h内回复 有什么意见，建议，期望添加功能等等，欢迎骚扰。】
+* 邮箱 ty@hw798.com 【24h内回复 有什么意见、建议、期望等等，欢迎骚扰。】
 
 > **网站的主要功能：**
- 
+
 1. 第一版
     1. 常用网址的整理大集合 （例如：技术站点、手册、论坛等等）
-    2. 精品文章的推荐
 2. 第二版 （开发中）
-    1. 常用网址的书签管理
+    1. 精品文章的推荐 （开发中）
+    2. 常用网址的书签管理
 
 
 ## 如何贡献
 
-> 宗旨：一定是您自己常用的链接。
+> 宗旨：一定是自己常用的链接。
 
-* 首先fork本项目，进行修改，然后提交 pull requests ,最好给出一些理由信息；
+* 首先fork本项目，进行修改，然后提交 pull requests ,最好给出一些推荐理由；
 * 等待审核通过,合并到master主分支（24小时内处理）
-* 技术人员会更新至网站上
+* 随后技术人员会更新至网站上
 
 ## 分享给好友
 
-> 如果你觉得本网站OK的话，请推荐给你的程序员朋友，O(∩_∩)O 谢谢！
+> 如果你觉得本站OK的话，请推荐给你的程序员朋友，O(∩_∩)O 谢谢！
 
 
-
-## hw798.com 首页网址
 
 
 ### 推荐
@@ -370,7 +367,7 @@
 3. [phalcon ](https://docs.phalconphp.com/en/3.2 )   
 4. [CodeIgniter ](http://codeigniter.org.cn/docs )   
 5. [Yaf ](http://yaf.laruence.com/manual/ )   
-6. [排名 ](https://github.com/search?l=PHP&amp;o=desc&amp;q=php+framework&amp;s=stars&amp;type=Repositories&amp;utf8=%E2%9C%93 )   
+6. [排名 ](https://github.com/search?l=PHP&o=desc&q=php+framework&s=stars&type=Repositories&utf8=%E2%9C%93 )   
 
 ### 工具
 
@@ -476,7 +473,5 @@
 
 1. [免费类 ](https://github.com/justjavac/free-programming-books-zh_CN )   免费的计算机编程类中文书籍
 2. [免费书籍 ](https://github.com/EbookFoundation/free-programming-books/blob/master/free-programming-books-zh.md )   
-3. [博客&amp;文章 ](https://github.com/edagarli/tuiblogs#%E4%BC%98%E7%A7%80%E5%8D%9A%E5%AE%A2 )   
+3. [博客&文章 ](https://github.com/edagarli/tuiblogs#%E4%BC%98%E7%A7%80%E5%8D%9A%E5%AE%A2 )   
 4. [最佳推荐 ](https://github.com/tuteng/Best-websites-a-programmer-should-visit-zh?from=hw798 )   
-
-
