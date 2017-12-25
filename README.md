@@ -35,6 +35,38 @@
 
 
 
+## 优秀资料
+* [程序员优质学习资源集合](https://github.com/porcelainHeart/learning-resource)
+* [Java资源大全中文版](https://github.com/jobbole/awesome-java-cn)
+* [前端收集](https://github.com/foru17/front-end-collect)
+* [模拟登录一些常见的网站](https://github.com/xchaoinfo/fuck-login)
+* [iOS资源大全中文版](https://github.com/jobbole/awesome-ios-cn)
+* [国内 Android 开发者](https://github.com/android-cn/android-dev-cn)
+* [反反爬虫的代码仓库](https://github.com/luyishisi/Anti-Anti-Spider)
+* [中国部分 Android 开发者](https://github.com/android-cn/android-dev-com)
+* [计算机相关技术资料整理](https://github.com/EZLippi/practical-programming-books)
+* [Android学习资源网站大全](https://github.com/zhujun2730/Android-Learning-Resources)
+* [程序员应该访问的最佳网站中文版原版](https://github.com/tuteng/Best-websites-a-programmer-should-visit-zh)
+* [俺收藏的各色网站](https://github.com/programthink/sites)
+* [Swift 语言指南](https://github.com/ipader/SwiftGuide)
+* [React-Native学习指南](https://github.com/reactnativecn/react-native-guide)
+* [前端开发面试题](https://github.com/markyun/My-blog/tree/master/Front-end-Developer-Questions/Questions-and-Answers)
+* [iOS面试题集锦](https://github.com/ChenYilong/iOSInterviewQuestions)
+* [安卓学习笔记](https://github.com/GcsSloop/AndroidNote)
+* [ANDROID SDK 源码解析](https://github.com/LittleFriendsGroup/AndroidSdkSourceAnalysis)
+* [iOS9适配系列教程](https://github.com/ChenYilong/iOS9AdaptationTips)
+* [有关 git 的学习资料](https://github.com/xirong/my-git)
+* [Go 编程基础](https://github.com/Unknwon/go-fundamental-programming)
+* [GitHub最全的前端资源汇总仓库（包括前端学习、开发资源、求职面试等）](https://github.com/helloqingfeng/Awsome-Front-End-learning-resource)
+* [spring boot 实践学习案例](https://github.com/JeffLi1993/springboot-learning-example)
+* [机器学习相关教程](https://github.com/MorvanZhou/tutorials)
+* [算法学习笔记](https://github.com/nonstriater/Learn-Algorithms)
+* [Swift学习资源](https://github.com/Lax/iOS-Swift-Demos)
+* [机器学习资源大全中文版](https://github.com/jobbole/awesome-machine-learning-cn)
+* [php修行之路](https://github.com/GiggleAll/php)
+* [深入学习php](https://github.com/YuanLianDu/YLD-with-Php)
+* [成为专业程序员路上用到的各种优秀资料、神器及框架](https://github.com/stanzhai/be-a-professional-programmer)
+* 
 
 
 
