@@ -4,32 +4,36 @@
 
 **[hw798.com](https://www.hw798.com)** 程序员导航，期望集合众人的眼界，打造出好的程序员网址导航。
 
-> hw798.com 域名的由来: hw是hello world的缩写, 798是北京最出名的艺术社区,为了便于记忆最后定为 hw798.com
+> hw798.com 域名的由来: hw是hello world的缩写, 798是北京最出名的艺术区,为了便于记忆最后定为 hw798.com
 
 ## 作者
-* 名字  ty
+
 * 邮箱 ty@hw798.com 【24h内回复 有什么意见、建议、期望等等，欢迎骚扰。】
 
-> **网站的主要功能：**
+## 网站的主要功能
 
 1. 第一版
     1. 常用网址的整理大集合 （例如：技术站点、手册、论坛等等）
 2. 第二版 （开发中）
-    1. 精品文章的推荐 （开发中）
+    1. 精品文章的推荐
     2. 常用网址的书签管理
 
 
 ## 如何贡献
 
-> 宗旨：一定是自己常用的链接。
+> 链接、意见、期望功能等等均可贡献
+>
+> 目前急需一位**前端**一起合作开发，让项目更加漂亮专业，期待您的加入,有意者发邮件联系我ty@hw798.com
 
-* 首先fork本项目，进行修改，然后提交 pull requests ,最好给出一些推荐理由；
-* 等待审核通过,合并到master主分支（24小时内处理）
-* 随后技术人员会更新至网站上
+* 方法 :
+   1. 使用 Issues 或者  pull requests 提交均可, 最好给出推荐理由便于快速审核；(24小时内处理)
+   2. 审核通过后会更新至网站www.hw798.com上
 
 ## 分享给好友
 
 > 如果你觉得本站OK的话，请推荐给你的程序员朋友，O(∩_∩)O 谢谢！
+
+
 
 
 
@@ -41,9 +45,9 @@
 
 1. [Google ](https://www.google.com/ )   
 2. [Github ](https://www.github.com/ )   
-3. [Freebuf ](http://www.freebuf.com/ )   
-4. [SF ](https://segmentfault.com/ )   
-5. [Infoq ](http://www.infoq.com/cn/ )   
+3. [Infoq ](http://www.infoq.com/cn/ )   
+4. [Freebuf ](http://www.freebuf.com/ )   
+5. [SF ](https://segmentfault.com/ )   
 6. [MSDN ](https://msdn.microsoft.com/zh-CN/ )   
 7. [码云 ](https://gitee.com )   
 
@@ -73,12 +77,18 @@
 3. [Vultr ](https://www.vultr.com/ )   
 4. [七牛 ](https://www.qiniu.com/ )   
 5. [又拍云 ](https://www.upyun.com/ )   云存储
+6. [Azure ](https://www.azure.cn/ )   
+7. [AWS ](https://aws.amazon.com/cn/ )   
 
 #### 社区
 
 1. [知乎 ](https://www.zhihu.com/ )   
-2. [v2ex ](https://www.v2ex.com/ )   
-3. [博客园 ](https://www.cnblogs.com/ )   
+2. [云栖 ](https://yq.aliyun.com/ )   
+3. [v2ex ](https://www.v2ex.com/ )   
+4. [博客园 ](https://www.cnblogs.com/ )   
+5. [CSDN ](https://www.csdn.net/ )   
+6. [伯乐在线 ](http://blog.jobbole.com/ )   
+7. [豆瓣 ](https://www.douban.com/ )   
 
 #### 科技
 
@@ -109,7 +119,7 @@
 3. [Twitter ](https://twitter.com/ )   
 4. [Youtube ](https://www.youtube.com/ )   
 5. [quora ](https://www.quora.com/ )   
-6. [书签 ](https://pinboard.in/ )   
+6. [pinboard ](https://pinboard.in/ )   
 
 #### 编程
 
@@ -118,6 +128,15 @@
 3. [HackerNews ](https://news.ycombinator.com/ )   
 4. [Codeproject ](https://www.codeproject.com/ )   
 5. [stackoverflow ](https://stackoverflow.com/ )   
+
+#### Github
+
+1. [探索 ](https://github.com/explore )   
+2. [使用指南 ](https://guides.github.com/ )   
+3. [主题 ](https://github.com/collections )   
+4. [热门 ](https://github.com/trending?since=weekly )   
+5. [博客 ](https://github.com/blog/ )   
+6. [帮助中心 ](https://help.github.com/ )   
 
 ### 公开课
 
@@ -129,7 +148,6 @@
 3. [网易公开课 ](http://open.163.com/ )   
 4. [爱课程 ](http://www.icourses.cn/home/ )    “爱课程”网是教育部、财政部“十二五”期间启动实施的“高等学校本科教学质量与教学改革工程”支持建设的高等教育课程资源共享平台。
 5. [可汗学院 ](https://zh.khanacademy.org/ )   
-6. [哔哩哔哩 ](https://www.bilibili.com/v/technology/ )   
 
 #### 课程
 
@@ -138,6 +156,176 @@
 3. [混沌大学 ](http://www.hundun.cn/ )   
 4. [腾讯课堂 ](https://ke.qq.com/ )   
 5. [网易云课堂 ](http://study.163.com/ )   
+
+### 职业
+
+
+#### PHP
+
+1. [PHP之道 ](http://laravel-china.github.io/php-the-right-way/ )   
+2. [laravel学院 ](http://laravelacademy.org/modern-php/devops )   
+3. [phpchina ](http://www.phpchina.com/portal.php?mod=listall )   
+4. [laravelchina ](https://laravel-china.org/sites )   
+5. [PHP内核 ](http://www.php-internals.com/book/ )   
+6. [Composer ](https://getcomposer.org/ )   
+7. [PSR规范 ](https://psr.phphub.org/ )   
+
+#### JAVA
+
+1. [文档 ](http://www.oracle.com/technetwork/cn/java/javase/documentation/api-jsp-136079-zhs.html )   
+2. [ImportNew ](http://www.importnew.com/ )   ImportNew 专注于 Java 技术分享
+
+#### Python
+
+
+#### Android
+
+1. [开发者博客 ](https://android-developers.googleblog.com/ )   
+2. [玩安卓 ](http://www.wanandroid.com/ )   
+3. [Developers ](https://developer.android.com/index.html?hl=zh-cn )   
+
+#### Ruby
+
+1. [ruby-china ](https://ruby-china.org/sites )   
+
+#### 测试
+
+1. [TesterHome ](https://testerhome.com/ )   
+
+#### GO
+
+1. [golang中国 ](https://golangtc.com/ )   
+
+#### 运维
+
+1. [鸟哥私房菜 ](http://cn.linux.vbird.org/ )   
+2. [linux中国 ](https://linux.cn/ )   
+
+#### Erlang
+
+1. [erlang社区 ](http://www.cnerlang.com/ )   
+
+#### 前端
+
+1. [前端乱炖 ](http://www.html-js.com/ )   
+
+#### 架构
+
+1. [凤凰牌老熊 ](http://blog.lixf.cn/ )   
+2. [Kris ](http://kriszhang.com/ )   
+
+### 大公司博客
+
+
+#### 国内
+
+1. [美团 ](https://tech.meituan.com/ )   
+2. [阿里中间件 ](http://jm.taobao.org/ )   
+3. [淘宝前端 ](http://taobaofed.org/categories/Web%E5%BC%80%E5%8F%91/ )   
+4. [腾讯前端 ](http://www.alloyteam.com/ )   
+5. [360 ](http://blogs.360.cn/ )   
+
+#### 国外
+
+1. [quora ](https://engineering.quora.com/ )   
+2. [twitter ](https://blog.twitter.com/engineering/en_us.html )   
+3. [linkedin ](https://engineering.linkedin.com/ )   
+4. [facebook ](https://code.facebook.com/ )   
+5. [uber ](https://eng.uber.com/ )   
+6. [dropbox ](https://blogs.dropbox.com/tech/ )   
+7. [yelp ](https://www.yelp.com/engineering )   
+
+#### 国外
+
+1. [spotify ](https://labs.spotify.com/ )   
+2. [buzzfeed ](https://www.buzzfeed.com/techblog )   
+3. [github ](https://githubengineering.com/ )   
+4. [netflix ](http://techblog.netflix.com/ )   
+5. [cisco ](https://umbrella.cisco.com/blog )   
+6. [google ](https://opensource.googleblog.com/ )   
+7. [nginx ](https://www.nginx.com/blog/ )   
+
+### 个人博客
+
+
+#### 综合
+
+1. [阮一峰 ](http://www.ruanyifeng.com/blog/archives.html )   
+2. [酷壳 ](https://coolshell.cn/ )   
+3. [博客大学习 ](http://blogread.cn/news/ )   收录IT领域的优秀技术博客文章
+4. [Get社区 ](http://get.ftqq.com/ )   JobDeer的技术文章聚合社区
+5. [月光博客 ](http://www.williamlong.info/ )   
+6. [杨卫华 ](https://timyang.net/ )   
+7. [廖雪峰 ](https://www.liaoxuefeng.com )   
+
+#### php
+
+1. [风雪之隅 ](http://www.laruence.com/ )   
+2. [韩天峰 ](http://rango.swoole.com/ )   
+
+#### 运维
+
+1. [生存时间 ](http://www.ttlsa.com/ )   
+2. [张戈 ](https://zhangge.net/ )   
+
+#### Android
+
+1. [博客列表 ](http://www.wanandroid.com/article/list/0?cid=176 )   
+2. [老罗 ](http://blog.csdn.net/luoshengyang )   
+3. [郭霖 ](http://blog.csdn.net/guolin_blog )   
+4. [trinea ](http://www.trinea.cn/about_trinea/ )   
+5. [谷歌开发者 ](https://developers.googleblog.cn/ )   
+
+#### Java
+
+1. [开涛 ](http://jinnianshilongnian.iteye.com/ )   主要是Spring和java方面的东西
+2. [小黑屋 ](http://droidyue.com/ )   
+3. [并发编程 ](http://ifeve.com/ )   
+4. [hollischuang ](http://www.hollischuang.com/ )   
+
+#### 运维
+
+1. [余锋 ](http://blog.yufeng.info/ppt )   
+2. [运维与架构 ](http://blog.csdn.net/ )   
+3. [运维日志 ](https://www.centos.bz/ )   
+4. [阿里中间件 ](http://jm.taobao.org/ )   
+5. [运维那点事 ](http://www.ywnds.com/ )   
+
+#### 数据库
+
+1. [何登成 ](http://hedengcheng.com/ )   
+2. [冯大辉 ](http://dbanotes.net/siteinfo.html )   
+
+#### 前端
+
+1. [Jerry Qu ](https://imququ.com/ )   
+
+#### 安全
+
+1. [绿盟 ](http://blog.nsfocus.net/ )   
+
+#### 游戏
+
+1. [云风 ](https://blog.codingnow.com/ )   
+2. [nosqlfan ](http://blog.nosqlfan.com/ )   
+
+#### 爬虫
+
+1. [爬虫实验室 ](https://geekspider.org/ )   
+
+#### 自然语言
+
+1. [52nlp ](http://www.52nlp.cn/ )   
+2. [nlpcn ](http://www.nlpcn.org/ )   
+3. [HanLP ](http://hanlp.linrunsoft.com/ )   
+
+#### 机器学习
+
+1. [52ml ](http://www.52ml.net/ )   
+
+#### 国外
+
+1. [Brendan ](http://www.brendangregg.com/ )   
 
 ### 工作
 
@@ -149,7 +337,8 @@
 3. [众包 ](https://zb.oschina.net/ )   
 4. [实现 ](https://shixian.com/jobs )   
 5. [程序员客栈 ](https://www.proginn.com/ )   
-6. [简历模板 ](https://github.com/geekcompany/ResumeSample )   
+6. [猪八戒 ](http://www.zbj.com/ )   
+7. [简历模板 ](https://github.com/geekcompany/ResumeSample )   
 
 ### 云服务
 
@@ -186,140 +375,6 @@
 #### 邮件
 
 1. [sendcloud ](https://www.sendcloud.net/ )   
-
-### 职业
-
-
-#### PHP
-
-1. [PHP之道 ](http://laravel-china.github.io/php-the-right-way/ )   
-2. [Laravel ](https://laravel-china.org/ )   
-3. [PHP内核 ](http://www.php-internals.com/book/ )   
-4. [Composer ](https://getcomposer.org/ )   
-5. [PSR规范 ](https://psr.phphub.org/ )   
-
-#### JAVA
-
-1. [ImportNew ](http://www.importnew.com/ )   ImportNew 专注于 Java 技术分享
-
-#### Python
-
-
-#### Android
-
-1. [玩安卓 ](http://www.wanandroid.com/ )   
-
-#### Ruby
-
-1. [ruby-china ](https://ruby-china.org/sites )   
-
-#### 测试
-
-1. [TesterHome ](https://testerhome.com/ )   
-
-#### GO
-
-1. [golang中国 ](https://golangtc.com/ )   
-
-#### 运维
-
-1. [鸟哥私房菜 ](http://cn.linux.vbird.org/ )   
-2. [linux中国 ](https://linux.cn/ )   
-
-### 大公司博客
-
-
-#### 国内
-
-1. [美团 ](https://tech.meituan.com/ )   
-2. [阿里中间件 ](http://jm.taobao.org/ )   
-3. [淘宝前端 ](http://taobaofed.org/categories/Web%E5%BC%80%E5%8F%91/ )   
-
-#### 国外
-
-1. [quora ](https://engineering.quora.com/ )   
-2. [twitter ](https://blog.twitter.com/engineering/en_us.html )   
-3. [linkedin ](https://engineering.linkedin.com/ )   
-4. [facebook ](https://code.facebook.com/ )   
-5. [uber ](https://eng.uber.com/ )   
-6. [dropbox ](https://blogs.dropbox.com/tech/ )   
-7. [yelp ](https://www.yelp.com/engineering )   
-
-#### 国外
-
-1. [spotify ](https://labs.spotify.com/ )   
-2. [buzzfeed ](https://www.buzzfeed.com/techblog )   
-3. [github ](https://githubengineering.com/ )   
-4. [netflix ](http://techblog.netflix.com/ )   
-5. [cisco ](https://umbrella.cisco.com/blog )   
-6. [google ](https://opensource.googleblog.com/ )   
-7. [nginx ](https://www.nginx.com/blog/ )   
-
-### 个人博客
-
-
-#### 综合
-
-1. [阮一峰 ](http://www.ruanyifeng.com/blog/archives.html )   
-2. [酷壳 ](https://coolshell.cn/ )   
-3. [IT大学习 ](http://blogread.cn/news/ )   收录IT领域的优秀技术博客文章
-4. [Get社区 ](http://get.ftqq.com/ )   JobDeer的技术文章聚合社区
-5. [月光博客 ](http://www.williamlong.info/ )   
-6. [杨卫华 ](https://timyang.net/ )   
-7. [廖雪峰 ](https://www.liaoxuefeng.com )   
-
-#### php
-
-1. [风雪之隅 ](http://www.laruence.com/ )   
-2. [韩天峰 ](http://rango.swoole.com/ )   
-
-#### 运维
-
-1. [生存时间 ](http://www.ttlsa.com/ )   
-2. [张戈 ](https://zhangge.net/ )   
-
-#### Android
-
-1. [老罗 ](http://blog.csdn.net/luoshengyang )   
-2. [郭霖 ](http://blog.csdn.net/guolin_blog )   
-3. [trinea ](http://www.trinea.cn/about_trinea/ )   
-
-#### Java
-
-1. [开涛 ](http://jinnianshilongnian.iteye.com/ )   主要是Spring和java方面的东西
-2. [小黑屋 ](http://droidyue.com/ )   
-3. [并发编程 ](http://ifeve.com/ )   
-4. [hollischuang ](http://www.hollischuang.com/ )   
-
-#### 运维
-
-1. [系统研究 ](http://blog.yufeng.info/ppt )   
-2. [运维与架构 ](http://blog.csdn.net/ )   
-3. [运维日志 ](https://www.centos.bz/ )   
-4. [阿里中间件 ](http://jm.taobao.org/ )   
-5. [运维那点事 ](http://www.ywnds.com/ )   
-
-#### 数据库
-
-1. [何登成 ](http://hedengcheng.com/ )   
-2. [冯大辉 ](http://dbanotes.net/siteinfo.html )   
-
-#### 前端
-
-1. [Jerry Qu ](https://imququ.com/ )   
-
-#### 安全
-
-1. [绿盟 ](http://blog.nsfocus.net/ )   
-
-#### 游戏
-
-1. [云风 ](https://blog.codingnow.com/ )   
-2. [nosqlfan ](http://blog.nosqlfan.com/ )   
-
-#### 爬虫
-
-1. [爬虫实验室 ](https://geekspider.org/ )   
 
 ### 手册
 
@@ -379,8 +434,9 @@
 
 #### 站长
 
-1. [友盟 ](http://www.umeng.com/ )   
-2. [站长工具 ](http://tool.chinaz.com/ )   
+1. [免费域名 ](http://www.freenom.com/zh/index.html )   
+2. [友盟 ](http://www.umeng.com/ )   
+3. [站长工具 ](http://tool.chinaz.com/ )   
 
 #### 开发
 
@@ -391,7 +447,6 @@
 
 #### 域名
 
-1. [免费域名 ](http://www.freenom.com/zh/index.html )   
 
 #### 其他
 
@@ -432,6 +487,24 @@
 #### 数据库
 
 
+#### 开源
+
+1. [Apache ](http://apache.org/ )   
+
+### 游戏
+
+
+#### 仿真飞机
+
+1. [x-plane ](http://www.x-plane.com/ )   
+
+#### 音乐
+
+1. [GarageBand ](https://itunes.apple.com/cn/app/garageband/id682658836?mt=12 )   
+
+### 英文学习
+
+
 ### 免费API
 
 
@@ -456,14 +529,18 @@
 
 #### 综合
 
-1. [大全 ](http://vlambda.com/accountList.html )   
+1. [高可用架构 ](http://weixin.sogou.com/weixin?query=%E9%AB%98%E5%8F%AF%E7%94%A8%E6%9E%B6%E6%9E%84 )   
+2. [GitChat ](http://weixin.sogou.com/weixin?type=1&s_from=input&query=GitChat&ie=utf8&_sug_=n&_sug_type_= )   
+3. [架构师 ](http://weixin.sogou.com/weixin?query=%E6%9E%B6%E6%9E%84%E5%B8%88%E4%B9%8B%E8%B7%AF )   
+4. [聊聊架构 ](http://weixin.sogou.com/weixin?query=%E8%81%8A%E8%81%8A%E6%9E%B6%E6%9E%84 )   
+5. [大全 ](http://vlambda.com/accountList.html )   
 
 ### 书籍
 
 
 #### 系统
 
-1. [深入理解计算机系统 ](https://book.douban.com/subject/1230413/ )   
+1. [计算机系统 ](https://book.douban.com/subject/1230413/ )   
 
 #### 网络
 
