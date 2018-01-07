@@ -36,6 +36,49 @@
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ### 个人博客
 
 
@@ -257,13 +300,13 @@
 5. [青云 ](https://www.qingcloud.com/ )   
 6. [百度云 ](https://cloud.baidu.com/ )   
 
-#### 服务器EN
+#### 国外服务器
 
-1. [微软Azure ](https://www.azure.cn/ )   
-2. [亚马逊AWS ](https://aws.amazon.com/cn/ )   
-3. [Linode ](https://www.linode.com/ )   
-4. [Vultr ](https://www.vultr.com/ )   
-5. [Digitalocean ](https://www.digitalocean.com )   
+1. [Vultr ](https://www.vultr.com/?ref=7157271 )   
+2. [Digitalocean ](http://www.digitalocean.com/?refcode=20ff46502e56 )   
+3. [微软Azure ](https://www.azure.cn/ )   
+4. [Linode ](https://www.linode.com/ )   
+5. [亚马逊AWS ](https://aws.amazon.com/cn/ )   
 
 #### 云存储
 
@@ -276,11 +319,12 @@
 #### 其他
 
 1. [国政通 ](http://q.id5.cn/sft/13.html )   
-2. [e签宝 ](https://www.tsign.cn )   
+2. [个推 ](http://getui.com/cn/ )   
 3. [sendcloud ](https://www.sendcloud.net/ )   
 4. [天润融通 ](http://www.ti-net.com.cn/ )   
 5. [网易七鱼 ](http://qiyukf.com/callcenter )   
 6. [网易云信 ](https://netease.im/im )   
+7. [聚合数据 ](https://www.juhe.cn/ )   
 
 ### 公开课
 
@@ -311,12 +355,13 @@
 #### 国内
 
 1. [美团 ](https://tech.meituan.com/ )   
-2. [阿里中间件 ](http://jm.taobao.org/ )   
-3. [印记中文 ](https://www.docschina.org/ )   
-4. [阿里 ](http://weixin.sogou.com/weixin?type=1&s_from=input&query=%E9%98%BF%E9%87%8C%E6%8A%80%E6%9C%AF )   
-5. [淘宝前端 ](http://taobaofed.org/categories/Web%E5%BC%80%E5%8F%91/ )   
+2. [今日头条 ](https://techblog.toutiao.com/ )   
+3. [淘宝前端 ](http://taobaofed.org/categories/Web%E5%BC%80%E5%8F%91/ )   
+4. [阿里中间件 ](http://jm.taobao.org/ )   
+5. [阿里 ](http://weixin.sogou.com/weixin?type=1&s_from=input&query=%E9%98%BF%E9%87%8C%E6%8A%80%E6%9C%AF )   
 6. [腾讯前端 ](http://www.alloyteam.com/ )   
 7. [360 ](http://blogs.360.cn/ )   
+8. [印记中文 ](https://www.docschina.org/ )   
 
 #### 国外
 
@@ -357,7 +402,7 @@
 2. [ImportNew ](http://www.importnew.com/ )   ImportNew 专注于 Java 技术分享
 3. [ibm ](https://www.ibm.com/developerworks/cn/java/ )   
 4. [java世界 ](https://www.javaworld.com/ )   
-5. [资源 ](http://hao.jobbole.com/ )   
+5. [Maven ](http://mvnrepository.com/ )   
 6. [java geeks ](https://www.javacodegeeks.com/ )   
 7. [P-Creek ](https://www.programcreek.com/ )   
 
@@ -409,7 +454,7 @@
 2. [Java ](https://github.com/jobbole/awesome-java-cn )   
 3. [Python ](https://github.com/jobbole/awesome-python-cn )   
 4. [.NET ](https://github.com/jobbole/awesome-dotnet-cn )   
-5. [IOS ](https://github.com/jobbole/awesome-ios-cn )   
+5. [iOS ](https://github.com/jobbole/awesome-ios-cn )   
 6. [运维 ](https://github.com/jobbole/awesome-sysadmin-cn )   
 7. [mysql ](https://github.com/jobbole/awesome-mysql-cn )   
 
@@ -456,7 +501,7 @@
 #### 系统
 
 1. [Android ](https://github.com/JStumpp/awesome-android )   
-2. [IOS ](https://github.com/vsouza/awesome-ios )   
+2. [iOS ](https://github.com/vsouza/awesome-ios )   
 3. [Linux ](https://github.com/aleksandar-todorovic/awesome-linux )   
 4. [物联网 ](https://github.com/weblancaster/awesome-IoT-hybrid )   
 5. [树莓派  ](https://github.com/thibmaek/awesome-raspberry-pi )   
@@ -505,13 +550,13 @@
 
 #### Github
 
-1. [帮助中心 ](https://help.github.com/ )   
-2. [使用指南 ](https://guides.github.com/ )   
-3. [主题 ](https://github.com/collections )   
-4. [热门 ](https://github.com/trending?since=weekly )   
-5. [博客 ](https://github.com/blog/ )   
-6. [中文指南 ](https://github.com/xirong/my-git/blob/master/how-to-use-github.md )   
-7. [探索 ](https://github.com/explore )   
+1. [中文指南 ](https://github.com/xirong/my-git/blob/master/how-to-use-github.md )   
+2. [探索 ](https://github.com/explore )   
+3. [帮助中心 ](https://help.github.com/ )   
+4. [使用指南 ](https://guides.github.com/ )   
+5. [主题 ](https://github.com/collections )   
+6. [热门 ](https://github.com/trending?since=weekly )   
+7. [博客 ](https://github.com/blog/ )   
 
 ### 推荐
 
@@ -543,14 +588,14 @@
 3. [云栖 ](https://yq.aliyun.com/ )   
 4. [SegmentFault ](https://segmentfault.com/ )   
 5. [CSDN ](https://www.csdn.net/ )   
-6. [v2ex ](http://www.v2ex.com/?r=hw798 )   
+6. [V2EX ](http://www.v2ex.com/?r=hw798 )   
 7. [伯乐在线 ](http://blog.jobbole.com/ )   
 
 #### 云服
 
 1. [阿里云 ](https://www.aliyun.com/ )   
 2. [腾讯云 ](https://cloud.tencent.com/ )   
-3. [Vultr ](https://www.vultr.com/ )   
+3. [Vultr ](https://www.vultr.com/?ref=7157271 )   
 4. [七牛 ](https://www.qiniu.com/ )   
 5. [又拍云 ](https://www.upyun.com/ )   云存储
 6. [AWS ](https://aws.amazon.com/cn/ )   
@@ -558,7 +603,7 @@
 
 #### 工具
 
-1. [百度脑图 ](http://naotu.baidu.com )   
+1. [百度脑图 ](http://naotu.baidu.com/home )   
 2. [作图 ](https://www.processon.com/ )   
 3. [在线运行 ](https://c.runoob.com/ )   
 4. [在线工具 ](http://tool.oschina.net/ )   
@@ -588,10 +633,10 @@
 
 #### 其他
 
-1. [简书 ](http://www.jianshu.com/ )   
-2. [豆瓣 ](https://www.douban.com/ )   
-3. [携程 ](http://www.ctrip.com/ )   
-4. [12306 ](https://kyfw.12306.cn/otn/index/init )   
-5. [京东 ](https://www.jd.com )   
-6. [58 ](http://58.com/ )   
+1. [活动行 ](http://www.huodongxing.com/ )   
+2. [简书 ](http://www.jianshu.com/ )   
+3. [豆瓣 ](https://www.douban.com/ )   
+4. [携程 ](http://www.ctrip.com/ )   
+5. [12306 ](https://kyfw.12306.cn/otn/index/init )   
+6. [企业邮箱 ](https://exmail.qq.com )   
 7. [哔哩哔哩 ](https://www.bilibili.com/ )   
