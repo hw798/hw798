@@ -23,8 +23,6 @@
 ## 如何贡献
 
 > 链接、意见、期望功能等等均可贡献
->
-> 目前急需一位**前端**一起合作开发，让项目更加漂亮专业，期待您的加入,有意者发邮件联系我ty@hw798.com
 
 * 方法 :
    1. 使用 邮件、Issues 或者  pull requests 提交均可, 最好给出推荐理由便于快速审核；(24小时内处理)
@@ -263,6 +261,7 @@
 
 #### 其他
 
+[IP地址查询 ](http://www.ip138.com/ )   
 [条形码 ](https://barcode.tec-it.com/zh )   
 [时间戳 ](http://tool.chinaz.com/Tools/unixtime.aspx )   
 [快递查询 ](http://www.hao123.com/haoserver/kuaidi.htm )   
@@ -347,7 +346,7 @@
 
 [网易公开课 ](http://open.163.com/ )   
 [学堂在线 ](http://www.xuetangx.com/courses?cid=117 )   
-[coursera ](https://www.coursera.org/ )   
+[Coursera ](https://www.coursera.org/ )   
 [可汗学院 ](https://zh.khanacademy.org/ )   
 [爱课程 ](http://www.icourses.cn/home/ )    “爱课程”网是教育部、财政部“十二五”期间启动实施的“高等学校本科教学质量与教学改革工程”支持建设的高等教育课程资源共享平台。
 [中国大学 ](https://www.icourse163.org/ )   
@@ -514,13 +513,13 @@
 
 #### 书单
 
-[课程 ](https://github.com/prakhar1989/awesome-courses )   
-[软件测试 ](https://github.com/ligurio/awesome-software-quality )   
-[头脑风暴 ](https://github.com/hackerkid/Mind-Expanding-Books )   
-[Go ](https://github.com/dariubs/GoBooks )   
-[学习资料 ](https://github.com/sdmg15/Best-websites-a-programmer-should-visit#for-improving-your-english )   
-[英文书籍 ](https://github.com/EbookFoundation/free-programming-books )   
 [中文书籍 ](https://github.com/EbookFoundation/free-programming-books/blob/master/free-programming-books-zh.md )   
+[头脑风暴 ](https://github.com/hackerkid/Mind-Expanding-Books )   
+[课程 ](https://github.com/prakhar1989/awesome-courses )   
+[学习资料 ](https://github.com/sdmg15/Best-websites-a-programmer-should-visit#for-improving-your-english )   
+[Go ](https://github.com/dariubs/GoBooks )   
+[英文书籍 ](https://github.com/EbookFoundation/free-programming-books )   
+[软件测试 ](https://github.com/ligurio/awesome-software-quality )   
 
 #### 游戏
 
